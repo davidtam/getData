@@ -38,3 +38,5 @@ There are the following files:
   ```
   View(meanBySubjectAndActivity)
   ```
+
+7. The [tidy file](https://github.com/davidtam28/getData/blob/master/meanBySubjectAndActivity.txt) is also regenerated and saved as C:\coursera\getData\meanBySubjectAndActivity.txt
