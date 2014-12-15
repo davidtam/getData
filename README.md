@@ -1,10 +1,7 @@
-getData
+##Getting and Cleaning Data Course Project
 =======
 
-##Getting and Cleaning Data Course Project
-
-
-The repo contains the work for the course project.
+###Files Description
 
 There are the following files:
 
@@ -15,7 +12,7 @@ There are the following files:
 * [**meanBySubjectAndActivity.txt**](https://github.com/davidtam28/getData/blob/master/meanBySubjectAndActivity.txt) - the file contains the "Tidy" data that is submitted as to the course.  [CodeBook for the tidy file can be found here](https://github.com/davidtam28/getData/blob/master/CodeBook.md)
 
 
-## How to run the analysis
+### How to run the analysis
 
 
 1. Checkout or clone this git repo (following example assume repo is checkout to C:\coursera\getData on a windows box)
