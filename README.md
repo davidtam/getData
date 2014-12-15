@@ -7,7 +7,16 @@ There are the following files:
 
 * [**UCI**](https://github.com/davidtam28/getData/tree/master/UCI) - the directory that contains the original data files, with so unused files stripped out.
 
-* [**run_analysis.R**](https://github.com/davidtam28/getData/blob/master/run_analysis.R) - the actual R code that is used for cleaning up data and convert into required format.
+* [**run_analysis.R**](https://github.com/davidtam28/getData/blob/master/run_analysis.R) - the actual R code that is used for cleaning up data and convert into required format.  The code does the following:
+
+   1. Merges the training and the test sets to create one data set.
+   2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+   3. Uses descriptive activity names to name the activities in the data set
+   4. Appropriately labels the data set with descriptive variable names. 
+   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+   Each of these points has been added to the script near to the code where they are done.
+
 
 * [**meanBySubjectAndActivity.txt**](https://github.com/davidtam28/getData/blob/master/meanBySubjectAndActivity.txt) - the file contains the "Tidy" data that is submitted as to the course.  [CodeBook for the tidy file can be found here](https://github.com/davidtam28/getData/blob/master/CodeBook.md)
 
