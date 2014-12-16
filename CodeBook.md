@@ -1,7 +1,7 @@
 ##CodeBook for the tidy file
 ========
 
-
+Following is the code book for the ["tidy data"](https://github.com/davidtam28/getData/blob/master/meanBySubjectAndActivity.txt) that has been submitted as to the course project.
 
 Column Index | Column Name | Description
 ------------ | ----------- | -----------
